@@ -41,6 +41,7 @@ class PetersApp extends React.Component {
             <div className="col-xs-12 col-sm-9">
               <Paper z-depth={4}>
                 <OrdersTable />
+
               </Paper>
             </div>
             <div className="col-xs-6 col-sm-3" id="sidebar">
